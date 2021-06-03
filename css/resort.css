@@ -1,0 +1,41 @@
+body {
+  background-color: #fffafa;
+}
+
+h1 {
+  text-align: center;
+  font-family: "sans-serif";
+  line-height: 2.5rem;
+  padding-top: 3%;
+}
+
+h2, h3, p{
+  text-align: center;
+  font-family: "sans-serif";
+  line-height: 2.5rem;
+}
+
+.freeze {
+  margin: 3% 15%;
+}
+
+.java {
+  margin: 10% 15%;
+}
+
+
+.chill {
+  float: left;
+}
+
+.cocoa {
+  float: right;
+}
+
+.social-icon {
+  margin: 20px 25px;
+}
+
+.Gone {
+  padding: 7% 40%;
+}
